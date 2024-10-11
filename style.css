@@ -1,0 +1,56 @@
+
+.maincontainer{
+    height: 400px;
+    width: 700px;
+    background-color: aqua;
+    border: 2px solid rgb(214, 14, 14);
+margin-left: 300px;
+margin-top: 70px;
+   
+}
+.box{
+    height:370px;
+    width: 680px;
+  background-color: azure;
+  border: 2px solid rgb(12, 161, 220);
+  padding: 2px;
+ margin: 5px;
+ margin-bottom: 4px;
+ display: flex;
+ /* align-items: flex-start; */
+ text-align: center;
+  
+  
+}
+.vl{
+    border-left: 3px solid rgb(3, 10, 3);
+    height: 280px;
+    margin-top:40px;
+    margin-left: 80px;
+}
+
+i{
+    color: blueviolet;
+}
+.msg{
+    margin-left: 40px;
+    /* align-items: center; */
+    text-align: left;
+    margin-top: 50px;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    width: 300px;
+    margin-top: 20px;
+}
+input{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    background-color: rgb(247, 247, 244);
+   
+}
+h3{
+ color: blueviolet;
+}
